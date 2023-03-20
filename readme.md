@@ -24,7 +24,7 @@
 
 * [Christianheilmann.com](https://christianheilmann.com)
 * [LinkedIn](https://www.linkedin.com/in/christianheilmann/)
-* [gmail@christianheilmann.com][mailto:gmail@christianheilmann.com]
+* [gmail@christianheilmann.com](mailto:gmail@christianheilmann.com)
 
 
 
